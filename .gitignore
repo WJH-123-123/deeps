@@ -1,0 +1,15 @@
+
+# 系统
+Thumbs.db
+Desktop.ini
+
+# 构建产物
+build/
+dist/
+*.o
+*.exe
+
+# 依赖
+node_modules/
+.venv/
+__pycache__/
